@@ -37,7 +37,8 @@ sap.ui.define([
   var app = new App({
     pages: [
       new Page({
-        title: "SupplyDirect Demo",
+        showHeader: false,
+        enableScrolling: false,
         content: [
           new VBox({
             alignItems: "Center",

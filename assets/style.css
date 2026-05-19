@@ -28,9 +28,14 @@ body {
 }
 
 /* ===== SAPUI5 SEARCH PAGE (index.html) ===== */
-/* Override the default white UI5 body background with our dark navy hero */
-.sapUiBody, .sapMPage, .sapMPageHeader,
-#content > .sapMApp, #content > .sapMApp > .sapMPage {
+/* Override SAPUI5 default white backgrounds so our dark navy gradient shows through */
+body.sapUiBody,
+body.sapUiBody .sapMApp,
+body.sapUiBody .sapMPage,
+body.sapUiBody .sapMPageScroll,
+body.sapUiBody .sapMPageEnableScrolling,
+body.sapUiBody .sapMShell,
+body.sapUiBody #content {
   background: transparent !important;
 }
 
