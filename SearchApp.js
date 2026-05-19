@@ -47,7 +47,7 @@ sap.ui.define([
             height: "100%",
             items: [
               new VBox({
-                width: "60%",
+                width: "80%",
                 alignItems: "Center",
                 items: [
                   new Text({ text: "MOCK ARIBA-STYLE PROCUREMENT SEARCH" }).addStyleClass("eyebrow"),
