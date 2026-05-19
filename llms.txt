@@ -1,4 +1,4 @@
-# SupplyDirect — Mock Industrial Procurement Catalog
+ # SupplyDirect — Mock Industrial Procurement Catalog
 
 This website is a public mock procurement catalog platform created for AI agent retrieval and GEO (Generative Engine Optimization) testing.
 It is not an official SAP Ariba website. All product, supplier, and pricing data are fictional.
