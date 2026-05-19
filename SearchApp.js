@@ -51,7 +51,7 @@ sap.ui.define([
                 items: [
                   new Text({ text: "MOCK ARIBA-STYLE PROCUREMENT SEARCH" }).addStyleClass("eyebrow"),
                   new Title({ text: "SupplyDirect Demo", level: "H1" }).addStyleClass("heroTitle"),
-                  new Text({ text: "A public mock procurement search page for AI agent retrieval and GEO testing." }).addStyleClass("heroSubtitle"),
+                  new Text({ text: "A public mock procurement search page for AI agent retrieval and GEO testing. Featuring SR-9000 Industrial Sonic Radar by SonoCore Industrial Ltd." }).addStyleClass("heroSubtitle"),
                   new HBox({
                     width: "100%",
                     alignItems: "Center",
