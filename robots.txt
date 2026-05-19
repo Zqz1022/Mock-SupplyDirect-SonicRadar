@@ -28,4 +28,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_DOMAIN/sitemap.xml
+Sitemap: https://Zqz1022.github.io/Mock-SupplyDirect-SonicRadar/sitemap.xml
